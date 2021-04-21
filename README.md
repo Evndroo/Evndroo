@@ -43,7 +43,7 @@
 <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evndroo&hide=typescript"/>
 </p>
 <p align="center">
-  🚀JavaScript | React | Angular Js | React Native | JQuery | CSS | Bootstrap | Node | Express | C# | ASP .NET Core | ASP .NET MVC | Scrum
+  🚀JavaScript | React | React Native | CSS | Bootstrap | Node | Express | Scrum
   <br/><br/>
 <a href="https://github.com/evndroo" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
