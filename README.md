@@ -1,54 +1,25 @@
-<h1 align="center">Experiências e Projetos</h1>
+# Hi, My name is Evandro!
+I'm a Full Stack developer, that loves to build a Web application
 
-<h4>AlparService:</h4>
-<p>
-	<b>Estagiário de desenvolvimento ServiceNow | Período: 04/2019 - 11/2019</b>
-	<br/> 
-	Neste período em que atuei como estagiário participei da entrega de um 			projeto para a empresa Raízen e antes do fim do projeto fui promovido a Consutor ServiceNow Junior. 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://www.linkedin.com/in/evandro-j-b72934127/" alt="LinkedIn">
+   		<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  	</a>
 </p>
 
-<p>
-	<b>Consutor ServiceNow Junior (Cargo atual) |  Início: 11/2019</b>
-	<br/> 
-	Desde o início dessa minha nova etapa na AlparService até atualmente foi concluído o projeto para a Raizen que iniciei como estagiário, foi realizado um projeto para a Azul linhas aéreas do Brasil, e outro projeto que integra o sistema da Raizen Brasil com o sistema da Raizen Argentina.
-</p>
+<h1 align="center">Technologies:</h1>
 
-<h5>Principais ferramentas utilizadas em trabalho: </h5>
-<ul>
-	<li>HTML</li>
-	<li>CSS</li>
-	<li>Javascript</li>
-	<li>JQuery</li>
-	<li>AngularJs</li>
-	<li>ServiceNow</li>
-	<li>Scrum</li>
-</ul>
-
-<br/>
-
-<h4>HackaCCR:</h4>
-<p>
-	<b>Participação no hackathon: hackaCCR | Data: 11/2019</b>
-	<br/> 
-	Neste hackathon o desafio foi em três dias encontrar algo que mudasse a vida dos caminhoneiros de maneira positiva, e nossa solução foi criar um APP baseado em gamification que coloca desafios saudaveis para os mesmos como: se alongar, tirar um dia para passar com a família, etc. O modelo foi criado baseado no mapeamento de de pontuações criado com ajuda dos mentores. Para o MVP mantivemos valores fixos no aplicativo por conta do curto período de 3 dias.
-</p>
-<h5>Principais ferramentas utilizadas: </h5>
-<ul>
-	<li>Javascript</li>
-	<li>ReactNative</li>
-</ul>
-
-<h1 align="center">Outras informações</h1>
-<p align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evndroo&hide=typescript"/>
-</p>
-<p align="center">
-  🚀JavaScript | React | React Native | CSS | Bootstrap | Node | Express | Scrum
-  <br/><br/>
-<a href="https://github.com/evndroo" alt="GitHub">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/evandro-j-b72934127/" alt="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
+<p align="center"> 
+	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+	<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="40" height="40"/> </a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+	<a target="_blank" href="https://www.typescriptlang.org/"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript"  width="40" height="40" /> </a>
+	<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+	<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
