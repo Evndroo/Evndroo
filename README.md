@@ -1,5 +1,5 @@
 # Hi, My name is Evandro!
-I'm a Full Stack developer, that loves to build a Web application
+I'm a Full Stack developer, that loves to create a Web application
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
